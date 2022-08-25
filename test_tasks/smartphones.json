@@ -1,0 +1,1958 @@
+[
+  {
+    "articul": 162586,
+    "name": "Redmi 9C, 64 GB, Lavender Purple (M2006C3MG)",
+    "price": 54990,
+    "memory_size": "64 Гб"
+  },
+  {
+    "articul": 162510,
+    "name": "Tecno Spark 8C, 128 GB, Turquoise Cyan (KG5k)",
+    "price": 73990,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 162508,
+    "name": "Tecno Spark 8C, 128 GB, Diamond Grey (KG5k)",
+    "price": 73990,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 162509,
+    "name": "Tecno Spark 8C, 128 GB, Magnet Black (KG5k)",
+    "price": 73900,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 162512,
+    "name": "Tecno Spark 8C, 64 GB, Magnet Black (KG5k)",
+    "price": 62990,
+    "memory_size": "64 Гб"
+  },
+  {
+    "articul": 162511,
+    "name": "Tecno Spark 8C, 64 GB, Diamond Grey (KG5k)",
+    "price": 65990,
+    "memory_size": "64 Гб"
+  },
+  {
+    "articul": 162515,
+    "name": "Tecno Pova Neo, 128 GB, Obsidian Black (LE6h)",
+    "price": 84990,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 162513,
+    "name": "Tecno Spark 8C, 64 GB, Turquoise Cyan (KG5n)",
+    "price": 65990,
+    "memory_size": "64 Гб"
+  },
+  {
+    "articul": 162514,
+    "name": "Tecno Pova Neo, 64 GB, Obsidian Black (LE6)",
+    "price": 72990,
+    "memory_size": "64 Гб"
+  },
+  {
+    "articul": 162439,
+    "name": "POCO X4 Pro 5G, 256 GB, Laser Black (2201116PG)",
+    "price": 179990,
+    "memory_size": "256 Гб"
+  },
+  {
+    "articul": 162438,
+    "name": "POCO X4 Pro 5G, 256 GB, POCO Yellow (2201116PG)",
+    "price": 179990,
+    "memory_size": "256 Гб"
+  },
+  {
+    "articul": 162437,
+    "name": "POCO X4 Pro 5G, 256 GB, Laser Blue (2201116PG)",
+    "price": 179990,
+    "memory_size": "256 Гб"
+  },
+  {
+    "articul": 162436,
+    "name": "POCO X4 Pro 5G, 128 GB, Laser Blue (2201116PG)",
+    "price": 159990,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 161960,
+    "name": "OnePlus 10 Pro 5G, 256 GB, Volcanic Black (NE2213)",
+    "price": 469990,
+    "memory_size": "256 Гб"
+  },
+  {
+    "articul": 161957,
+    "name": "OnePlus Nord 2 5G, 256 GB, Gray Sierra (DN2103)",
+    "price": 259990,
+    "memory_size": "256 Гб"
+  },
+  {
+    "articul": 161959,
+    "name": "OnePlus Nord CE 2, 128 GB, Bahama Blue (IV2201)",
+    "price": 189990,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 161958,
+    "name": "OnePlus Nord CE 2, 128 GB, Gray Mirror (IV2201)",
+    "price": 187990,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 161860,
+    "name": "Tecno Pova 2, 128 GB, Polar Silver (LE7n)",
+    "price": 99990,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 161956,
+    "name": "Infinix Note 11 NFC, 128 GB, Glacier Green (X663B)",
+    "price": 109990,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 161955,
+    "name": "Infinix Note 11 NFC, 128 GB, Celestial Snow (X663B)",
+    "price": 109990,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 161954,
+    "name": "Infinix Note 11 NFC, 128 GB, Graphite Black (X663B)",
+    "price": 109990,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 161952,
+    "name": "Infinix SMART 6, 32 GB, Purple (X6511Е)",
+    "price": 54900,
+    "memory_size": "32 Гб"
+  },
+  {
+    "articul": 161950,
+    "name": "Infinix SMART 6, 32 GB, Black (X6511Е)",
+    "price": 54800,
+    "memory_size": "32 Гб"
+  },
+  {
+    "articul": 161953,
+    "name": "Infinix SMART 6, 32 GB, Green (X6511Е)",
+    "price": 49900,
+    "memory_size": "32 Гб"
+  },
+  {
+    "articul": 161951,
+    "name": "Infinix SMART 6, 32 GB, Blue (X6511Е)",
+    "price": 49590,
+    "memory_size": "32 Гб"
+  },
+  {
+    "articul": 161727,
+    "name": "Tecno Spark 8P, 128 GB, Tahiti Gold (KG7n)",
+    "price": 83990,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 161735,
+    "name": "Tecno POP 5 LTE, 32 GB, Deepsea Luster (BD4)",
+    "price": 54990,
+    "memory_size": "32 Гб"
+  },
+  {
+    "articul": 161728,
+    "name": "Tecno Spark 8P, 64 GB, Tahiti Gold (KG7n)",
+    "price": 79990,
+    "memory_size": "64 Гб"
+  },
+  {
+    "articul": 161732,
+    "name": "Tecno Spark Go 2022, 32 GB, Atlantic Blue (KG5)",
+    "price": 46990,
+    "memory_size": "32 Гб"
+  },
+  {
+    "articul": 161726,
+    "name": "Tecno Spark 7, 32 GB, Spruce Green (KF6n)",
+    "price": 49990,
+    "memory_size": "32 Гб"
+  },
+  {
+    "articul": 161734,
+    "name": "Tecno Spark Go 2022, 32 GB, Ice Silver (KG5)",
+    "price": 46990,
+    "memory_size": "32 Гб"
+  },
+  {
+    "articul": 161725,
+    "name": "Tecno Spark 7, 32 GB, Morpheus Blue (KF6n)",
+    "price": 49900,
+    "memory_size": "32 Гб"
+  },
+  {
+    "articul": 161724,
+    "name": "Tecno Spark 7, 32 GB, Magnet Black (KF6n)",
+    "price": 49900,
+    "memory_size": "32 Гб"
+  },
+  {
+    "articul": 161733,
+    "name": "Tecno Spark Go 2022, 32 GB, Turquoise Cyan (KG5)",
+    "price": 48990,
+    "memory_size": "32 Гб"
+  },
+  {
+    "articul": 161731,
+    "name": "Tecno Pova 2, 64 GB, Polar Silver (LE7n)",
+    "price": 95990,
+    "memory_size": "64 Гб"
+  },
+  {
+    "articul": 161729,
+    "name": "Tecno Pova 2, 64 GB, Dazzle Black (LE7n)",
+    "price": 95990,
+    "memory_size": "64 Гб"
+  },
+  {
+    "articul": 161730,
+    "name": "Tecno Pova 2, 64 GB, Energy Blue (LE7n)",
+    "price": 95990,
+    "memory_size": "64 Гб"
+  },
+  {
+    "articul": 161603,
+    "name": "Nokia G21, 128 GB, Nordic Blue (TA-1418)",
+    "price": 94990,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 161587,
+    "name": "Xiaomi 12 Pro, 12 GB, 256 GB, Purple (2201123G)",
+    "price": 549990,
+    "memory_size": "12 Гб"
+  },
+  {
+    "articul": 161589,
+    "name": "Xiaomi 12 Pro, 12 GB, 256 GB, Gray (2201123G)",
+    "price": 549990,
+    "memory_size": "12 Гб"
+  },
+  {
+    "articul": 161590,
+    "name": "Xiaomi 12 Pro, 12 GB, 256 GB, Blue (2201123G)",
+    "price": 549990,
+    "memory_size": "12 Гб"
+  },
+  {
+    "articul": 161585,
+    "name": "Xiaomi 12, 12 GB, 256 GB, Gray (2201123G)",
+    "price": 459990,
+    "memory_size": "12 Гб"
+  },
+  {
+    "articul": 161586,
+    "name": "Xiaomi 12, 12 GB, 256 GB, Blue (2201123G)",
+    "price": 459900,
+    "memory_size": "12 Гб"
+  },
+  {
+    "articul": 161579,
+    "name": "Redmi Note 11 Pro 5G, 64 GB, Atlantic Blue (2201116SG)",
+    "price": 159990,
+    "memory_size": "64 Гб"
+  },
+  {
+    "articul": 161577,
+    "name": "Redmi Note 11 Pro 5G, 64 GB, Graphite Gray (2201116SG)",
+    "price": 159990,
+    "memory_size": "64 Гб"
+  },
+  {
+    "articul": 161578,
+    "name": "Redmi Note 11 Pro 5G, 64 GB, Polar White (2201116SG)",
+    "price": 156900,
+    "memory_size": "64 Гб"
+  },
+  {
+    "articul": 161580,
+    "name": "Redmi Note 11 Pro, 128 GB, Star Blue (2201116TG)",
+    "price": 152400,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 161588,
+    "name": "Xiaomi 12, 8 GB, 256 GB, Blue (2201123G)",
+    "price": 429990,
+    "memory_size": "8 Гб"
+  },
+  {
+    "articul": 161581,
+    "name": "Xiaomi 12X, 256 GB, Blue (2112123AG)",
+    "price": 359990,
+    "memory_size": "256 Гб"
+  },
+  {
+    "articul": 161584,
+    "name": "Xiaomi 12X, 128 GB, Gray (2112123AG)",
+    "price": 329990,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 161576,
+    "name": "Redmi Note 11 Pro, 128 GB, Graphite Gray (2201116TG)",
+    "price": 151390,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 161582,
+    "name": "Xiaomi 12X, 256 GB, Gray (2112123AG)",
+    "price": 335500,
+    "memory_size": "256 Гб"
+  },
+  {
+    "articul": 161583,
+    "name": "Xiaomi 12X, 128 GB, Purple (2112123AG)",
+    "price": 329990,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 161595,
+    "name": "Redmi Note 11, 128 GB, Star Blue (2201117TG)",
+    "price": 104990,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 161575,
+    "name": "Redmi Note 11 Pro, 128 GB, Polar White (2201116TG)",
+    "price": 159990,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 161494,
+    "name": "Samsung Galaxy A03, 64 GB, Red (SM-A035F)",
+    "price": 76990,
+    "memory_size": "64 Гб"
+  },
+  {
+    "articul": 161492,
+    "name": "Samsung Galaxy A03, 64 GB, Blue (SM-A035F)",
+    "price": 76990,
+    "memory_size": "64 Гб"
+  },
+  {
+    "articul": 161493,
+    "name": "Samsung Galaxy A03, 64 GB, Black (SM-A035F)",
+    "price": 76890,
+    "memory_size": "64 Гб"
+  },
+  {
+    "articul": 161509,
+    "name": "Samsung Galaxy A33 5G, 128 GB, Awesome Blue (SM-A336B)",
+    "price": 177900,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 161502,
+    "name": "Samsung Galaxy A53 5G, 256 GB, Awesome Peach (SM-A536E)",
+    "price": 239990,
+    "memory_size": "256 Гб"
+  },
+  {
+    "articul": 161510,
+    "name": "Samsung Galaxy A33 5G, 128 GB, Awesome Black (SM-A336B)",
+    "price": 177900,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 161500,
+    "name": "Samsung Galaxy A53 5G, 256 GB, Awesome Blue (SM-A536E)",
+    "price": 239990,
+    "memory_size": "256 Гб"
+  },
+  {
+    "articul": 161511,
+    "name": "Samsung Galaxy A33 5G, 128 GB, Awesome Peach (SM-A336B)",
+    "price": 177900,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 161501,
+    "name": "Samsung Galaxy A53 5G, 256 GB, Awesome Black (SM-A536E)",
+    "price": 239990,
+    "memory_size": "256 Гб"
+  },
+  {
+    "articul": 161496,
+    "name": "Samsung Galaxy A53 5G, 128 GB, Awesome White (SM-A536E)",
+    "price": 209990,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 161495,
+    "name": "Samsung Galaxy A53 5G, 128 GB, Awesome Peach (SM-A536E)",
+    "price": 209990,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 161512,
+    "name": "Samsung Galaxy A33 5G, 128 GB, Awesome White (SM-A336B)",
+    "price": 177900,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 161506,
+    "name": "Samsung Galaxy A23, 128 GB, Black (SM-A235F)",
+    "price": 137990,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 161507,
+    "name": "Samsung Galaxy A23, 128 GB, Peach (SM-A235F)",
+    "price": 137990,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 161508,
+    "name": "Samsung Galaxy A23, 128 GB, White (SM-A235F)",
+    "price": 137990,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 161503,
+    "name": "Samsung Galaxy A23, 64 GB, Black (SM-A235F)",
+    "price": 118990,
+    "memory_size": "64 Гб"
+  },
+  {
+    "articul": 161504,
+    "name": "Samsung Galaxy A23, 64 GB, Peach (SM-A235F)",
+    "price": 118990,
+    "memory_size": "64 Гб"
+  },
+  {
+    "articul": 161505,
+    "name": "Samsung Galaxy A23, 64 GB, White (SM-A235F)",
+    "price": 118990,
+    "memory_size": "64 Гб"
+  },
+  {
+    "articul": 161338,
+    "name": "Xiaomi Redmi 10C, 64 GB, Mint Green (220333QAG)",
+    "price": 79990,
+    "memory_size": "64 Гб"
+  },
+  {
+    "articul": 161336,
+    "name": "Xiaomi Redmi 10C, 64 GB, Graphite Gray (220333QAG)",
+    "price": 79990,
+    "memory_size": "64 Гб"
+  },
+  {
+    "articul": 161337,
+    "name": "Xiaomi Redmi 10C, 64 GB, Ocean Blue (220333QAG)",
+    "price": 79990,
+    "memory_size": "64 Гб"
+  },
+  {
+    "articul": 161334,
+    "name": "Xiaomi Redmi 10C, 128 GB, Graphite Gray",
+    "price": 84990,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 161335,
+    "name": "Xiaomi Redmi 10C, 128 GB, Ocean Blue (220333QAG)",
+    "price": 84990,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 161072,
+    "name": "Tecno Camon 18, 128 GB, Ceramic White (CH6n)",
+    "price": 105990,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 161073,
+    "name": "Tecno Camon 18, 128 GB, Dusk Gray (CH6n)",
+    "price": 105990,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 161074,
+    "name": "Tecno Camon 18P, 128 GB, Ceramic White (CH7n)",
+    "price": 129990,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 161269,
+    "name": "Xiaomi Redmi Note 11S, 128 GB, Graphite Gray (2201117SG)",
+    "price": 139990,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 161075,
+    "name": "Tecno Camon 18P, 128Gb, Dusk Gray (CH7n)",
+    "price": 129990,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 161270,
+    "name": "Xiaomi Redmi Note 11S, 128 GB, Twilight Blue (2201117SG)",
+    "price": 139990,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 161077,
+    "name": "Tecno Spark 8P, 64 GB, Turquoise Cyan (KG7n)",
+    "price": 79990,
+    "memory_size": "64 Гб"
+  },
+  {
+    "articul": 161076,
+    "name": "Tecno Spark 8P, 64 GB, Atlantic Blue (KG7n)",
+    "price": 79990,
+    "memory_size": "64 Гб"
+  },
+  {
+    "articul": 161081,
+    "name": "Infinix HOT 11 Play, 64 GB, Sunset Gold (X688B)",
+    "price": 70190,
+    "memory_size": "64 Гб"
+  },
+  {
+    "articul": 161079,
+    "name": "Infinix HOT 11 Play, 64 GB, Polar Black (X688B)",
+    "price": 75990,
+    "memory_size": "64 Гб"
+  },
+  {
+    "articul": 161080,
+    "name": "Infinix HOT 11 Play, 64 GB, Exploratory Blue (X688B)",
+    "price": 77000,
+    "memory_size": "64 Гб"
+  },
+  {
+    "articul": 161128,
+    "name": "Samsung Galaxy A53 5G, 256 GB, Awesome White (SM-A536E)",
+    "price": 239990,
+    "memory_size": "256 Гб"
+  },
+  {
+    "articul": 161126,
+    "name": "Samsung Galaxy A53 5G, 128 GB, Awesome Blue (SM-A536E)",
+    "price": 209990,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 161127,
+    "name": "Samsung Galaxy A53 5G, 128 GB, Awesome Black (SM-A536E)",
+    "price": 209990,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 161093,
+    "name": "Samsung Galaxy A13, 128 GB, Black (SM-A135F)",
+    "price": 109890,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 161092,
+    "name": "Samsung Galaxy A13, 128 GB, Blue (SM-A135F)",
+    "price": 109890,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 161094,
+    "name": "Samsung Galaxy A13, 128 GB, White (SM-A135F)",
+    "price": 109990,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 161089,
+    "name": "Samsung Galaxy A13, 64 GB, Blue (SM-A135F)",
+    "price": 89890,
+    "memory_size": "64 Гб"
+  },
+  {
+    "articul": 161091,
+    "name": "Samsung Galaxy A13, 64 GB, White (SM-A135F)",
+    "price": 89890,
+    "memory_size": "64 Гб"
+  },
+  {
+    "articul": 161090,
+    "name": "Samsung Galaxy A13, 64 GB, Black (SM-A135F)",
+    "price": 89890,
+    "memory_size": "64 Гб"
+  },
+  {
+    "articul": 161078,
+    "name": "Xiaomi Redmi 9C, 128 GB, Aurora Green (M2006C3MG)",
+    "price": 64990,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 161088,
+    "name": "Samsung Galaxy A52, 128 GB, Awesome White (SM-A525F)",
+    "price": 169690,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 161002,
+    "name": "OnePlus Nord 2 5G, 128 GB, Gray Sierra (DN2103)",
+    "price": 227990,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 160955,
+    "name": "Xiaomi Redmi Note 11, 64 GB, Star Blue (2201117TG)",
+    "price": 94990,
+    "memory_size": "64 Гб"
+  },
+  {
+    "articul": 160859,
+    "name": "vivo V23 5G, 128 GB, Sunshine Gold (V2130)",
+    "price": 249990,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 160858,
+    "name": "vivo V23 5G, 128 GB, Stardust Black (V2130)",
+    "price": 249990,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 160947,
+    "name": "Infinix HOT 11, 64 GB, Purple (X662)",
+    "price": 71900,
+    "memory_size": "64 Гб"
+  },
+  {
+    "articul": 160946,
+    "name": "Infinix HOT 11, 64 GB, Silver Wave (X662)",
+    "price": 79990,
+    "memory_size": "64 Гб"
+  },
+  {
+    "articul": 160945,
+    "name": "Infinix HOT 11, 64 GB, Polar Black (X662)",
+    "price": 79990,
+    "memory_size": "64 Гб"
+  },
+  {
+    "articul": 160768,
+    "name": "POCO M3 Pro, 128 GB, Power Black (M2103K19PY)",
+    "price": 131500,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 160750,
+    "name": "Xiaomi Redmi 9C, 128 GB, Lavender Purple (M2006C3MG)",
+    "price": 64990,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 160751,
+    "name": "Xiaomi Redmi 9C, 128 GB, Sunrise Orange (M2006C3MG)",
+    "price": 64990,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 160643,
+    "name": "Xiaomi 11 Lite 5G NE, 256 GB, Snowflake White (2109119DG)",
+    "price": 209990,
+    "memory_size": "256 Гб"
+  },
+  {
+    "articul": 160683,
+    "name": "vivo Y33s, 64 GB, Mirror Black (V2109)",
+    "price": 109990,
+    "memory_size": "64 Гб"
+  },
+  {
+    "articul": 160684,
+    "name": "vivo Y33s, 64 GB, Midday Dream (V2109)",
+    "price": 109990,
+    "memory_size": "64 Гб"
+  },
+  {
+    "articul": 160681,
+    "name": "vivo V23e, 128 GB, Moonlight Shadow (V2116)",
+    "price": 189990,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 160682,
+    "name": "vivo V23e, 128 GB, Dancing Waves (V2116)",
+    "price": 189990,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 160491,
+    "name": "Infinix Zero X Neo, 128Gb, Black (X6810)",
+    "price": 117400,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 160492,
+    "name": "Infinix Zero X Neo, 128Gb, Silver (X6810)",
+    "price": 117400,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 160489,
+    "name": "Infinix HOT 10i, 64Gb, Mist Copper (X658E)",
+    "price": 61800,
+    "memory_size": "64 Гб"
+  },
+  {
+    "articul": 160490,
+    "name": "Infinix HOT 10i, 64Gb, Ocean (X658E)",
+    "price": 62400,
+    "memory_size": "64 Гб"
+  },
+  {
+    "articul": 160402,
+    "name": "Apple iPhone 13 Pro Max, 512Gb, Gold (MLMV3)",
+    "price": 854790,
+    "memory_size": "512 Гб"
+  },
+  {
+    "articul": 160401,
+    "name": "Apple iPhone 13 Pro, 512Gb, Gold (MLWC3)",
+    "price": 829990,
+    "memory_size": "512 Гб"
+  },
+  {
+    "articul": 160337,
+    "name": "Xiaomi 11T Pro, 128Gb, Moonlight White (2107113SG)",
+    "price": 299990,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 160336,
+    "name": "Xiaomi 11T Pro, 128Gb, Celestial Blue (2107113SG)",
+    "price": 299990,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 160335,
+    "name": "Xiaomi 11T, 128Gb, Moonlight White (21081111RG)",
+    "price": 259990,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 160061,
+    "name": "Apple iPhone 13, 128 GB, Red (MLPJ3)",
+    "price": 529900,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 160060,
+    "name": "Apple iPhone 13, 128Gb, Pink (MLNY3)",
+    "price": 509790,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 160067,
+    "name": "Apple iPhone 13 Pro Max, 256Gb, Graphite (MLMA3)",
+    "price": 749900,
+    "memory_size": "256 Гб"
+  },
+  {
+    "articul": 160083,
+    "name": "POCO M4 Pro 5G, 64Gb, Power Black (21091116AG)",
+    "price": 116500,
+    "memory_size": "64 Гб"
+  },
+  {
+    "articul": 160082,
+    "name": "POCO M4 Pro 5G, 128Gb, Power Black (21091116AG)",
+    "price": 139990,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 159952,
+    "name": "realme 9i, 128Gb, Prism Black (RMX3491)",
+    "price": 99990,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 159953,
+    "name": "realme 9i, 128Gb, Prism Blue (RMX3491)",
+    "price": 99990,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 159919,
+    "name": "Xiaomi Redmi 9C, 128Gb, Twilight Blue (M2006C3MG)",
+    "price": 74990,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 159920,
+    "name": "Xiaomi Redmi Note 11, 64Gb, Graphite Gray (2201117TG)",
+    "price": 94800,
+    "memory_size": "64 Гб"
+  },
+  {
+    "articul": 159922,
+    "name": "Xiaomi Redmi Note 11, 128Gb, Graphite Gray (2201117TG)",
+    "price": 104900,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 159921,
+    "name": "Xiaomi Redmi Note 11, 64Gb, Twilight Blue (2201117TG)",
+    "price": 94990,
+    "memory_size": "64 Гб"
+  },
+  {
+    "articul": 159923,
+    "name": "Xiaomi Redmi Note 11, 128Gb, Twilight Blue (2201117TG)",
+    "price": 104700,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 159446,
+    "name": "Tecno Camon 17p, 128Gb, Magnet Black (CG7n)",
+    "price": 109990,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 159445,
+    "name": "Tecno Pova 2, 128Gb, Energy Blue (LE7n)",
+    "price": 99990,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 159544,
+    "name": "vivo Y53s, 128Gb, Deep Sea Blue (V2058)",
+    "price": 139990,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 159545,
+    "name": "vivo Y53s, 128Gb, Fantastic Rainbow (V2058)",
+    "price": 139990,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 159543,
+    "name": "vivo Y33s, 128Gb, Mirror Black (V2109)",
+    "price": 129990,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 159550,
+    "name": "realme 8, 128Gb, Cyber Black (RMX3085)",
+    "price": 140900,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 159542,
+    "name": "vivo Y33s, 128Gb, Midday Dream (V2109)",
+    "price": 129990,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 159538,
+    "name": "vivo Y15s, 32Gb, Mystic Blue (V2120)",
+    "price": 79990,
+    "memory_size": "32 Гб"
+  },
+  {
+    "articul": 159541,
+    "name": "vivo Y21, 64Gb, Metallic Blue (V2111)",
+    "price": 99990,
+    "memory_size": "64 Гб"
+  },
+  {
+    "articul": 159539,
+    "name": "vivo Y15s, 32Gb, Wave Green (V2120)",
+    "price": 79990,
+    "memory_size": "32 Гб"
+  },
+  {
+    "articul": 159535,
+    "name": "vivo Y1s, 32Gb, Ripple Blue (vivo2015)",
+    "price": 64990,
+    "memory_size": "32 Гб"
+  },
+  {
+    "articul": 159540,
+    "name": "vivo Y21, 64Gb, Diamond Glow (V2111)",
+    "price": 99990,
+    "memory_size": "64 Гб"
+  },
+  {
+    "articul": 159537,
+    "name": "vivo Y12s, 32Gb, Phantom Black (V2026)",
+    "price": 64990,
+    "memory_size": "32 Гб"
+  },
+  {
+    "articul": 159534,
+    "name": "vivo Y1s, 32Gb, Olive Black (vivo2015)",
+    "price": 64990,
+    "memory_size": "32 Гб"
+  },
+  {
+    "articul": 159536,
+    "name": "vivo Y12s, 32Gb, Nebula Blue (V2026)",
+    "price": 64990,
+    "memory_size": "32 Гб"
+  },
+  {
+    "articul": 159547,
+    "name": "vivo V21e, 128Gb, Roman Black (V2061)",
+    "price": 149990,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 159546,
+    "name": "vivo V21e, 128Gb, Diamond Flare (V2061)",
+    "price": 149990,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 159549,
+    "name": "vivo V21, 128Gb, Sunset Dazzle (V2066)",
+    "price": 179990,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 159548,
+    "name": "vivo V21, 128Gb, Dusk Blue (V2066)",
+    "price": 179990,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 159456,
+    "name": "Samsung Galaxy A52, 128Gb, Awesome Violet (SM-A525F)",
+    "price": 169690,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 159443,
+    "name": "Tecno Spark 8P, 128Gb, Atlantic Blue (KG7n)",
+    "price": 83990,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 159442,
+    "name": "Tecno Spark 8P, 128Gb, Turquoise Cyan (KG7n)",
+    "price": 83990,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 159419,
+    "name": "Tecno POP 2F, 16Gb, Dawn Blue (B1g)",
+    "price": 27890,
+    "memory_size": "16 Гб"
+  },
+  {
+    "articul": 159428,
+    "name": "Tecno Spark 7, 128Gb, Spruce Green (KF6n)",
+    "price": 75100,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 159426,
+    "name": "Tecno Spark 7, 128Gb, Magnet Black (KF6n)",
+    "price": 75100,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 159427,
+    "name": "Tecno Spark 7, 128Gb, Morpheus Blue (KF6n)",
+    "price": 75100,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 159423,
+    "name": "Tecno Spark 7, 64Gb, Morpheus Blue (KF6n)",
+    "price": 69990,
+    "memory_size": "64 Гб"
+  },
+  {
+    "articul": 159424,
+    "name": "Tecno Spark 7, 64Gb, Spruce Green (KF6n)",
+    "price": 69990,
+    "memory_size": "64 Гб"
+  },
+  {
+    "articul": 159425,
+    "name": "Tecno Spark 7, 64Gb, Magnet Black (KF6n)",
+    "price": 69990,
+    "memory_size": "64 Гб"
+  },
+  {
+    "articul": 159421,
+    "name": "Tecno POP 5, 32Gb, Ice Lake Green (BD2p)",
+    "price": 46990,
+    "memory_size": "32 Гб"
+  },
+  {
+    "articul": 159420,
+    "name": "Tecno POP 5, 32Gb, Ice Blue (BD2p)",
+    "price": 46990,
+    "memory_size": "32 Гб"
+  },
+  {
+    "articul": 159422,
+    "name": "Tecno POP 5, 32Gb, Obsidian Black (BD2p)",
+    "price": 46990,
+    "memory_size": "32 Гб"
+  },
+  {
+    "articul": 159432,
+    "name": "Apple iPhone 13, 256Gb, Midnight (MLP23)",
+    "price": 589900,
+    "memory_size": "256 Гб"
+  },
+  {
+    "articul": 159431,
+    "name": "Apple iPhone 13, 128Gb, Starlight (MLNX3)",
+    "price": 519990,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 159358,
+    "name": "POCO M4 Pro 5G, 128Gb, POCO Yellow",
+    "price": 139990,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 159357,
+    "name": "POCO M4 Pro 5G, 128Gb, Cool Blue",
+    "price": 139990,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 159231,
+    "name": "Apple iPhone 13 Pro, 256Gb, Graphite (MLW53)",
+    "price": 769900,
+    "memory_size": "256 Гб"
+  },
+  {
+    "articul": 159228,
+    "name": "Apple iPhone 13, 256Gb, Pink (MLP53)",
+    "price": 554500,
+    "memory_size": "256 Гб"
+  },
+  {
+    "articul": 159225,
+    "name": "Apple iPhone 13, 128Gb, Midnight (MLNW3)",
+    "price": 519990,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 159232,
+    "name": "Apple iPhone 13 Pro, 256Gb, Sierra Blue (MLW83)",
+    "price": 769900,
+    "memory_size": "256 Гб"
+  },
+  {
+    "articul": 159222,
+    "name": "Apple iPhone 13, 128Gb, Blue (MLP13)",
+    "price": 519990,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 159154,
+    "name": "realme GT Master Edition, 128Gb, Voyager Gray (RMX3363)",
+    "price": 179990,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 158968,
+    "name": "realme C25s, 128Gb, Blue (RMX3195)",
+    "price": 93900,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 158967,
+    "name": "realme C25s, 128Gb, Gray (RMX3195)",
+    "price": 93900,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 158835,
+    "name": "Infinix HOT 10i, 64Gb, Black (X658E)",
+    "price": 57300,
+    "memory_size": "64 Гб"
+  },
+  {
+    "articul": 158836,
+    "name": "Infinix HOT 10i, 64Gb, Morandi Green (X658E)",
+    "price": 62600,
+    "memory_size": "64 Гб"
+  },
+  {
+    "articul": 158839,
+    "name": "Infinix HOT 10S, 128Gb, Morandi Green (X689B)",
+    "price": 90990,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 158840,
+    "name": "Infinix HOT 10S, 128Gb, Purple (X689B)",
+    "price": 90990,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 158838,
+    "name": "Infinix HOT 10S, 128Gb, Heart of Ocean (X689B)",
+    "price": 90990,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 158837,
+    "name": "Infinix HOT 10S, 128Gb, Black (X689B)",
+    "price": 84900,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 158720,
+    "name": "Samsung Galaxy A52, 256Gb, Awesome Blue (SM-A525F)",
+    "price": 194990,
+    "memory_size": "256 Гб"
+  },
+  {
+    "articul": 158620,
+    "name": "OnePlus 8, 128Gb, Interstellar Glow (IN2013)",
+    "price": 259990,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 158616,
+    "name": "OnePlus Nord N10 5G, 128Gb, Midnight Ice (BE2029)",
+    "price": 129990,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 158621,
+    "name": "OnePlus 8T, 128Gb, Lunar Silver (KB2003)",
+    "price": 269990,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 158618,
+    "name": "OnePlus Nord, 128Gb, Blue Marble (AC2003)",
+    "price": 189900,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 158619,
+    "name": "OnePlus Nord, 256Gb, Gray Onix (AC2003)",
+    "price": 219900,
+    "memory_size": "256 Гб"
+  },
+  {
+    "articul": 158622,
+    "name": "OnePlus 8T, 128Gb, Aquamarine Green (KB2003)",
+    "price": 269990,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 158617,
+    "name": "OnePlus Nord, 128Gb, Gray Onix (AC2003)",
+    "price": 189900,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 158649,
+    "name": "Xiaomi 11T, 128Gb, Meteorite Gray (21081111RG)",
+    "price": 259990,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 158650,
+    "name": "Xiaomi 11T, 256Gb, Meteorite Gray (21081111RG)",
+    "price": 279990,
+    "memory_size": "256 Гб"
+  },
+  {
+    "articul": 158652,
+    "name": "Xiaomi 11T, 256Gb, Moonlight White (21081111RG)",
+    "price": 279990,
+    "memory_size": "256 Гб"
+  },
+  {
+    "articul": 158651,
+    "name": "Xiaomi 11T, 256Gb, Celestial Blue (21081111RG)",
+    "price": 279990,
+    "memory_size": "256 Гб"
+  },
+  {
+    "articul": 158648,
+    "name": "Xiaomi 11T, 128Gb, Celestial Blue (21081111RG)",
+    "price": 259990,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 158022,
+    "name": "Xiaomi 11 Lite 5G NE, 8Gb, 128Gb, Bubblegum Blue (2109119DG)",
+    "price": 161300,
+    "memory_size": "8 Гб"
+  },
+  {
+    "articul": 157988,
+    "name": "Xiaomi 11 Lite 5G NE, 8Gb, 128Gb, Truffle Black (2109119DG)",
+    "price": 161300,
+    "memory_size": "8 Гб"
+  },
+  {
+    "articul": 158019,
+    "name": "Xiaomi 11 Lite 5G NE, 6Gb, 128Gb, Truffle Black (2109119DG)",
+    "price": 161300,
+    "memory_size": "6 Гб"
+  },
+  {
+    "articul": 157678,
+    "name": "Samsung Galaxy Z Flip3 5G, 128Gb, Phantom Black (SM-F711B)",
+    "price": 441700,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 157679,
+    "name": "Samsung Galaxy Z Flip3 5G, 256Gb, Lavender (SM-F711B)",
+    "price": 498100,
+    "memory_size": "256 Гб"
+  },
+  {
+    "articul": 157677,
+    "name": "Samsung Galaxy Z Flip3 5G, 128Gb, Green (SM-F711B)",
+    "price": 441700,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 157674,
+    "name": "Samsung Galaxy Z Fold3 5G, 512Gb, Phantom Silver (SM-F926B)",
+    "price": 869990,
+    "memory_size": "512 Гб"
+  },
+  {
+    "articul": 157672,
+    "name": "Samsung Galaxy Z Fold3 5G, 256Gb, Phantom Silver (SM-F926B)",
+    "price": 769990,
+    "memory_size": "256 Гб"
+  },
+  {
+    "articul": 157676,
+    "name": "Samsung Galaxy Z Flip3 5G, 128Gb, Cream (SM-F711B)",
+    "price": 441700,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 157680,
+    "name": "Samsung Galaxy Z Flip3 5G, 256Gb, Cream (SM-F711B)",
+    "price": 498100,
+    "memory_size": "256 Гб"
+  },
+  {
+    "articul": 157544,
+    "name": "Infinix HOT 10i, 32Gb, Black (PR652B)",
+    "price": 49800,
+    "memory_size": "32 Гб"
+  },
+  {
+    "articul": 157546,
+    "name": "Infinix HOT 10i, 32Gb, Mist Copper (PR652B)",
+    "price": 49800,
+    "memory_size": "32 Гб"
+  },
+  {
+    "articul": 157545,
+    "name": "Infinix HOT 10i, 32Gb, Blue (PR652B)",
+    "price": 49800,
+    "memory_size": "32 Гб"
+  },
+  {
+    "articul": 157554,
+    "name": "Infinix HOT 10T, 128Gb, Blue (X689C)",
+    "price": 82900,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 157556,
+    "name": "Infinix HOT 10T, 128Gb, Morandi Green (X689C)",
+    "price": 82900,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 157547,
+    "name": "Infinix HOT 10i, 32Gb, Morandi Green (PR652B)",
+    "price": 49800,
+    "memory_size": "32 Гб"
+  },
+  {
+    "articul": 157553,
+    "name": "Infinix HOT 10T, 128Gb, Black (X689C)",
+    "price": 82900,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 157543,
+    "name": "Infinix HOT 10 Lite, 32Gb, Midnight Black (X657B)",
+    "price": 49800,
+    "memory_size": "32 Гб"
+  },
+  {
+    "articul": 157549,
+    "name": "Infinix HOT 10 Play, 64Gb, Obsidian Black (X688B)",
+    "price": 61900,
+    "memory_size": "64 Гб"
+  },
+  {
+    "articul": 157455,
+    "name": "Samsung Galaxy A03s, 32Gb, Blue (SM-A037F)",
+    "price": 62990,
+    "memory_size": "32 Гб"
+  },
+  {
+    "articul": 157497,
+    "name": "Xiaomi Redmi 10, 4Gb, 64Gb, Pebble White (21061119AG)",
+    "price": 87300,
+    "memory_size": "4 Гб"
+  },
+  {
+    "articul": 157498,
+    "name": "Xiaomi Redmi 10, 4Gb, 128Gb, Pebble White (21061119AG)",
+    "price": 97000,
+    "memory_size": "4 Гб"
+  },
+  {
+    "articul": 157495,
+    "name": "Xiaomi Redmi 10, 4Gb, 64b, Carbon Gray (21061119AG)",
+    "price": 86900,
+    "memory_size": "4 Гб"
+  },
+  {
+    "articul": 157499,
+    "name": "Xiaomi Redmi 10, 4Gb, 128b, Carbon Gray (21061119AG)",
+    "price": 93300,
+    "memory_size": "4 Гб"
+  },
+  {
+    "articul": 157496,
+    "name": "Xiaomi Redmi 10, 4Gb, 64Gb, Sea Blue (21061119AG)",
+    "price": 85800,
+    "memory_size": "4 Гб"
+  },
+  {
+    "articul": 157500,
+    "name": "Xiaomi Redmi 10, 4Gb, 128Gb, Sea Blue (21061119AG)",
+    "price": 93990,
+    "memory_size": "4 Гб"
+  },
+  {
+    "articul": 157230,
+    "name": "Samsung Galaxy A52, 256Gb, Awesome Violet (SM-A525F)",
+    "price": 194990,
+    "memory_size": "256 Гб"
+  },
+  {
+    "articul": 157062,
+    "name": "realme C21Y, 32Gb, Blue (RMX3261)",
+    "price": 56300,
+    "memory_size": "32 Гб"
+  },
+  {
+    "articul": 157061,
+    "name": "realme C21Y, 32Gb, Black (RMX3261)",
+    "price": 56300,
+    "memory_size": "32 Гб"
+  },
+  {
+    "articul": 156708,
+    "name": "Samsung Galaxy A52, 256Gb, Awesome Black (SM-A525F)",
+    "price": 194990,
+    "memory_size": "256 Гб"
+  },
+  {
+    "articul": 156713,
+    "name": "Samsung Galaxy A22, 64Gb, White (SM-A225F)",
+    "price": 89990,
+    "memory_size": "64 Гб"
+  },
+  {
+    "articul": 156718,
+    "name": "realme C21Y, 64Gb, Blue (RMX3261)",
+    "price": 69190,
+    "memory_size": "64 Гб"
+  },
+  {
+    "articul": 156716,
+    "name": "realme C21Y, 64Gb, Black (RMX3261)",
+    "price": 69190,
+    "memory_size": "64 Гб"
+  },
+  {
+    "articul": 156493,
+    "name": "Xiaomi Redmi 9C, 128Gb, Midnight Gray (M2006C3MG)",
+    "price": 64990,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 155618,
+    "name": "POCO M3 Pro 5G, 128Gb, Power Black",
+    "price": 109900,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 155625,
+    "name": "Xiaomi Redmi Note 10 5G, 4Gb, 64Gb, Aurora Green (M2103K19G)",
+    "price": 93900,
+    "memory_size": "4 Гб"
+  },
+  {
+    "articul": 155575,
+    "name": "Xiaomi 11 Lite 5G, 8Gb, 128Gb, Truffle Black (M2101K9G)",
+    "price": 189900,
+    "memory_size": "8 Гб"
+  },
+  {
+    "articul": 155525,
+    "name": "Tecno Camon 16, 128Gb, Misty Grey (CE7j)",
+    "price": 99900,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 155524,
+    "name": "Tecno Pova, 128Gb, Speed Purple (LD7)",
+    "price": 82000,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 155528,
+    "name": "Apple iPhone 12 Pro Max, 512Gb, Graphite (MGDG3)",
+    "price": 699990,
+    "memory_size": "512 Гб"
+  },
+  {
+    "articul": 155325,
+    "name": "POCO M3 Pro 5G, 64Gb, Power Black",
+    "price": 92600,
+    "memory_size": "64 Гб"
+  },
+  {
+    "articul": 155120,
+    "name": "Apple iPhone 12 Pro, 512Gb, Graphite (MGMU3)",
+    "price": 689990,
+    "memory_size": "512 Гб"
+  },
+  {
+    "articul": 155121,
+    "name": "Apple iPhone 12 Pro, 512Gb, Pacific Blue (MGMX3)",
+    "price": 689990,
+    "memory_size": "512 Гб"
+  },
+  {
+    "articul": 154987,
+    "name": "realme C11 (2021), 2Gb/32Gb, Blue (RMX3231)",
+    "price": 49590,
+    "memory_size": "2/32 Гб"
+  },
+  {
+    "articul": 154926,
+    "name": "OPPO Reno5 Lite, 128Gb, Purple (CPH2205)",
+    "price": 139990,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 154988,
+    "name": "realme C11 (2021), 2Gb/32Gb, Gray (RMX3231)",
+    "price": 54990,
+    "memory_size": "2/32 Гб"
+  },
+  {
+    "articul": 154925,
+    "name": "OPPO Reno5 Lite, 128Gb, Black (CPH2205)",
+    "price": 139990,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 154930,
+    "name": "OPPO A74, 128Gb, Blue (CPH2219)",
+    "price": 124990,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 154929,
+    "name": "OPPO A74, 128Gb, Black (CPH2219)",
+    "price": 124990,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 154928,
+    "name": "OPPO A54, 64Gb, Blue (CPH2239)",
+    "price": 97990,
+    "memory_size": "64 Гб"
+  },
+  {
+    "articul": 154927,
+    "name": "OPPO A54, 64Gb, Black (CPH2239)",
+    "price": 97990,
+    "memory_size": "64 Гб"
+  },
+  {
+    "articul": 154758,
+    "name": "Xiaomi Redmi Note 10S, 6Gb, 128Gb, Ocean Blue",
+    "price": 116900,
+    "memory_size": "6 Гб"
+  },
+  {
+    "articul": 154760,
+    "name": "Xiaomi Redmi Note 10S, 6Gb, 64Gb, Ocean Blue",
+    "price": 91900,
+    "memory_size": "6 Гб"
+  },
+  {
+    "articul": 154759,
+    "name": "Xiaomi Redmi Note 10S, 6Gb, 64Gb, Onyx Gray",
+    "price": 115690,
+    "memory_size": "6 Гб"
+  },
+  {
+    "articul": 154592,
+    "name": "Xiaomi Redmi Note 10S, 6Gb, 64Gb, Pebble White",
+    "price": 134990,
+    "memory_size": "6 Гб"
+  },
+  {
+    "articul": 154508,
+    "name": "Xiaomi Redmi Note 10 Pro, 8Gb, 128Gb, Glacier Blue",
+    "price": 154990,
+    "memory_size": "8 Гб"
+  },
+  {
+    "articul": 154510,
+    "name": "Xiaomi Redmi Note 10 Pro, 8Gb, 128Gb, Onyx Gray",
+    "price": 134900,
+    "memory_size": "8 Гб"
+  },
+  {
+    "articul": 154397,
+    "name": "Apple iPhone Xr (2020), 128Gb, Red (MH7N3)",
+    "price": 319500,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 154268,
+    "name": "Samsung Galaxy A02, 32Gb, Red (SM-A022G)",
+    "price": 51600,
+    "memory_size": "32 Гб"
+  },
+  {
+    "articul": 153864,
+    "name": "Samsung Galaxy A52, 128Gb, Awesome Blue (SM-A525F)",
+    "price": 169690,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 153865,
+    "name": "Samsung Galaxy A52, 128Gb, Awesome Black (SM-A525F)",
+    "price": 169690,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 153582,
+    "name": "Samsung Galaxy A52, 256Gb, Awesome White (SM-A525F)",
+    "price": 194990,
+    "memory_size": "256 Гб"
+  },
+  {
+    "articul": 153442,
+    "name": "Samsung Galaxy A32, 64Gb, Awesome White (SM-A325F)",
+    "price": 109990,
+    "memory_size": "64 Гб"
+  },
+  {
+    "articul": 153439,
+    "name": "Samsung Galaxy A32, 64Gb, Awesome Violet (SM-A325F)",
+    "price": 109990,
+    "memory_size": "64 Гб"
+  },
+  {
+    "articul": 153536,
+    "name": "Meizu M10, 2Gb, 32Gb, Phantom Black (M918H)",
+    "price": 45990,
+    "memory_size": "2 Гб"
+  },
+  {
+    "articul": 153537,
+    "name": "Meizu M10, 2Gb, 32Gb, Sea Blue (M918H)",
+    "price": 47990,
+    "memory_size": "2 Гб"
+  },
+  {
+    "articul": 153341,
+    "name": "Samsung Galaxy A02, 32Gb, Blue (SM-A022G)",
+    "price": 54890,
+    "memory_size": "32 Гб"
+  },
+  {
+    "articul": 152626,
+    "name": "Meizu M10, 32Gb, Sea Blue (M918H)",
+    "price": 50990,
+    "memory_size": "32 Гб"
+  },
+  {
+    "articul": 152627,
+    "name": "Meizu M10, 32Gb, Purplish Red (M918H)",
+    "price": 50990,
+    "memory_size": "32 Гб"
+  },
+  {
+    "articul": 152625,
+    "name": "Meizu M10, 32Gb, Phantom Black (M918H)",
+    "price": 50990,
+    "memory_size": "32 Гб"
+  },
+  {
+    "articul": 152392,
+    "name": "Apple iPhone 12 Pro Max, 256Gb, Gold (MGDE3)",
+    "price": 629700,
+    "memory_size": "256 Гб"
+  },
+  {
+    "articul": 152393,
+    "name": "Apple iPhone 12 Pro Max, 256Gb, Pacific Blue (MGDF3)",
+    "price": 629700,
+    "memory_size": "256 Гб"
+  },
+  {
+    "articul": 152395,
+    "name": "Apple iPhone 12 Pro, 256Gb, Gold (MGMR3)",
+    "price": 579990,
+    "memory_size": "256 Гб"
+  },
+  {
+    "articul": 152318,
+    "name": "realme 6, 4Gb, 128Gb, Comet Blue (RMX2001)",
+    "price": 121100,
+    "memory_size": "4 Гб"
+  },
+  {
+    "articul": 152049,
+    "name": "Apple iPhone 12 Pro Max, 128Gb, Gold (MGD93)",
+    "price": 599990,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 152043,
+    "name": "Apple iPhone 12 Pro Max, 128Gb, Graphite (MGD73)",
+    "price": 599990,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 152047,
+    "name": "Apple iPhone 12 Pro Max, 256Gb, Graphite (MGDC3)",
+    "price": 629700,
+    "memory_size": "256 Гб"
+  },
+  {
+    "articul": 152048,
+    "name": "Apple iPhone 12 Pro Max, 256Gb, Silver (MGDD3)",
+    "price": 629700,
+    "memory_size": "256 Гб"
+  },
+  {
+    "articul": 152046,
+    "name": "Apple iPhone 12 Pro Max, 128Gb, Silver (MGD83)",
+    "price": 599990,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 152050,
+    "name": "Apple iPhone 12 Pro Max, 128Gb, Pacific Blue (MGDA3)",
+    "price": 599990,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 152229,
+    "name": "Apple iPhone 11 (2020), 64Gb, Red (MHDD3)",
+    "price": 299990,
+    "memory_size": "64 Гб"
+  },
+  {
+    "articul": 151551,
+    "name": "Tecno POP 4 Pro, 16Gb, Cosmic Shine (BC3)",
+    "price": 39990,
+    "memory_size": "16 Гб"
+  },
+  {
+    "articul": 151553,
+    "name": "Tecno POP 4 Pro, 16Gb, Vacation Blue (BC3)",
+    "price": 39990,
+    "memory_size": "16 Гб"
+  },
+  {
+    "articul": 151550,
+    "name": "Tecno POP 3, 16Gb, Champagne Gold (BB2)",
+    "price": 29990,
+    "memory_size": "16 Гб"
+  },
+  {
+    "articul": 151549,
+    "name": "Tecno POP 3, 16Gb, Sandstone Black (BB2)",
+    "price": 29990,
+    "memory_size": "16 Гб"
+  },
+  {
+    "articul": 151554,
+    "name": "Tecno Spark 6, 64Gb, Ocean Blue (KE7)",
+    "price": 64900,
+    "memory_size": "64 Гб"
+  },
+  {
+    "articul": 150013,
+    "name": "Tecno Spark 6 Go, 64Gb, Aqua Blue (KE5j)",
+    "price": 53000,
+    "memory_size": "64 Гб"
+  },
+  {
+    "articul": 151555,
+    "name": "Tecno Spark 6, 64Gb, Comet Black (KE7)",
+    "price": 64900,
+    "memory_size": "64 Гб"
+  },
+  {
+    "articul": 151667,
+    "name": "Vsmart Joy 4, 4Gb, 64Gb, Turquoise (FV441AEGNE)",
+    "price": 71300,
+    "memory_size": "4 Гб"
+  },
+  {
+    "articul": 151665,
+    "name": "Vsmart Joy 4, 3Gb, 64Gb, Turquoise (FV441AQGNE)",
+    "price": 65700,
+    "memory_size": "3 Гб"
+  },
+  {
+    "articul": 151666,
+    "name": "Vsmart Joy 4, 3Gb, 64Gb, Black (FV441AQBLE)",
+    "price": 65700,
+    "memory_size": "3 Гб"
+  },
+  {
+    "articul": 150805,
+    "name": "Apple iPhone 12, 64Gb, Green (MGJ93)",
+    "price": 379990,
+    "memory_size": "64 Гб"
+  },
+  {
+    "articul": 150803,
+    "name": "Apple iPhone 12, 64Gb, Red (MGJ73)",
+    "price": 379990,
+    "memory_size": "64 Гб"
+  },
+  {
+    "articul": 150804,
+    "name": "Apple iPhone 12, 64Gb, Blue (MGJ83)",
+    "price": 379990,
+    "memory_size": "64 Гб"
+  },
+  {
+    "articul": 150801,
+    "name": "Apple iPhone 12, 64Gb, Black (MGJ53)",
+    "price": 379990,
+    "memory_size": "64 Гб"
+  },
+  {
+    "articul": 150470,
+    "name": "OPPO Reno4 Lite, 8Gb, Magic Blue (CPH2125)",
+    "price": 129600,
+    "memory_size": "8 Гб"
+  },
+  {
+    "articul": 149580,
+    "name": "Tecno POP 2F, 16Gb, Champagne Gold (B1f)",
+    "price": 27890,
+    "memory_size": "16 Гб"
+  },
+  {
+    "articul": 149581,
+    "name": "Tecno POP 2F, 16Gb, Dawn Blue (B1f)",
+    "price": 27890,
+    "memory_size": "16 Гб"
+  },
+  {
+    "articul": 149582,
+    "name": "Tecno POP 2F, 16Gb, Midnight Black (B1f)",
+    "price": 27890,
+    "memory_size": "16 Гб"
+  },
+  {
+    "articul": 149297,
+    "name": "Tecno Spark 5 Pro, 128Gb, Seabed Blue (KD7)",
+    "price": 68500,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 149296,
+    "name": "Tecno Spark 5 Pro, 128Gb, Ice Jadeite (KD7)",
+    "price": 68500,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 148531,
+    "name": "Xiaomi Redmi 9C, 64Gb, Sunrise Orange (M2006C3MG)",
+    "price": 54990,
+    "memory_size": "64 Гб"
+  },
+  {
+    "articul": 148287,
+    "name": "Xiaomi Redmi 9C, 64Gb, Midnight Gray (M2006C3MG)",
+    "price": 54990,
+    "memory_size": "64 Гб"
+  },
+  {
+    "articul": 148260,
+    "name": "Tecno Spark 5 Pro, 64Gb, Seabed Blue (KD7)",
+    "price": 66900,
+    "memory_size": "64 Гб"
+  },
+  {
+    "articul": 147777,
+    "name": "Xiaomi Redmi 9A, 32Gb, Peacock Green (M2006C3LG)",
+    "price": 47990,
+    "memory_size": "32 Гб"
+  },
+  {
+    "articul": 147508,
+    "name": "Xiaomi Redmi 9A, 32Gb, Sky Blue (M2006C3LG)",
+    "price": 47990,
+    "memory_size": "32 Гб"
+  },
+  {
+    "articul": 147507,
+    "name": "Xiaomi Redmi 9A, 32Gb, Granite Grey (M2006C3LG)",
+    "price": 47990,
+    "memory_size": "32 Гб"
+  },
+  {
+    "articul": 146683,
+    "name": "realme 6, 4Gb, 128Gb, Comet Blue (RMX2001/NFC)",
+    "price": 121100,
+    "memory_size": "4 Гб"
+  },
+  {
+    "articul": 145753,
+    "name": "Xiaomi Redmi Note 9S, 64Gb, Aurora Blue",
+    "price": 99990,
+    "memory_size": "64 Гб"
+  },
+  {
+    "articul": 145754,
+    "name": "Xiaomi Redmi Note 9S, 64Gb, Glacier White",
+    "price": 99990,
+    "memory_size": "64 Гб"
+  },
+  {
+    "articul": 145755,
+    "name": "Xiaomi Redmi Note 9S, 64Gb, Interstellar Grey",
+    "price": 99990,
+    "memory_size": "64 Гб"
+  },
+  {
+    "articul": 143384,
+    "name": "Tecno Spark 4, 2Gb/32Gb, Vacation Blue (KC8)",
+    "price": 53500,
+    "memory_size": "2/32 Гб"
+  },
+  {
+    "articul": 143383,
+    "name": "Tecno Spark 4, 2Gb/32Gb, Royal Purple (KC8)",
+    "price": 53500,
+    "memory_size": "2/32 Гб"
+  },
+  {
+    "articul": 142572,
+    "name": "Tecno Spark 4, 32Gb, Royal Purple (KC2)",
+    "price": 62900,
+    "memory_size": "32 Гб"
+  },
+  {
+    "articul": 142571,
+    "name": "Tecno Spark 4, 32Gb, Vacation Blue (KC2)",
+    "price": 62900,
+    "memory_size": "32 Гб"
+  },
+  {
+    "articul": 142574,
+    "name": "Tecno Camon 12 Air, 32Gb, Alpenglow Gold (CC6)",
+    "price": 62800,
+    "memory_size": "32 Гб"
+  },
+  {
+    "articul": 142573,
+    "name": "Tecno Camon 12 Air, 32Gb, Bay Blue (CC6)",
+    "price": 62800,
+    "memory_size": "32 Гб"
+  },
+  {
+    "articul": 142577,
+    "name": "Tecno Camon 12, 64Gb, Dark Jade (CC7)",
+    "price": 68500,
+    "memory_size": "64 Гб"
+  },
+  {
+    "articul": 142576,
+    "name": "Tecno Camon 12, 64Gb, Sky Cyan (CC7)",
+    "price": 68500,
+    "memory_size": "64 Гб"
+  },
+  {
+    "articul": 142575,
+    "name": "Tecno Camon 12, 64Gb, Dawn Blue (CC7)",
+    "price": 68500,
+    "memory_size": "64 Гб"
+  },
+  {
+    "articul": 142150,
+    "name": "Tecno Pouvoir 3 Air, 16Gb, Aqua Blue (LC6a)",
+    "price": 37500,
+    "memory_size": "16 Гб"
+  },
+  {
+    "articul": 142149,
+    "name": "Tecno Pouvoir 3 Air, 16Gb, Midnight Black (LC6a)",
+    "price": 37500,
+    "memory_size": "16 Гб"
+  },
+  {
+    "articul": 134724,
+    "name": "Xiaomi Mi MIX 3, 128Gb, Black",
+    "price": 169900,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 133278,
+    "name": "Xiaomi Mi8, 128Gb, Blue",
+    "price": 187900,
+    "memory_size": "128 Гб"
+  },
+  {
+    "articul": 132863,
+    "name": "Apple iPhone Xs Max, 256Gb, Space Gray",
+    "price": 469900,
+    "memory_size": "256 Гб"
+  },
+  {
+    "articul": 132871,
+    "name": "Apple iPhone Xs, 256Gb, Silver",
+    "price": 441700,
+    "memory_size": "256 Гб"
+  },
+  {
+    "articul": 130681,
+    "name": "OnePlus 6, 64Gb, Mirror Black (A6003)",
+    "price": 253700,
+    "memory_size": "64 Гб"
+  }
+]
